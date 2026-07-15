@@ -3,14 +3,15 @@ layout: default
 title: Home
 ---
 
-# Horizon
+# 日本留学 AI 新闻雷达
 
 <div id="lang-zh" class="lang-section" markdown="1">
 
-欢迎来到 [Horizon](https://github.com/thysrael/Horizon)，一个 AI 驱动的信息聚合系统。
+欢迎来到日本留学 AI 新闻雷达。它基于 [Horizon](https://github.com/thysrael/Horizon)，每天抓取、筛选并整理值得日本留学博主关注的新闻。
 
 ## 文档
 
+- [Codex 介绍](codex-introduction) — 了解协助搭建和维护本项目的 AI 编程助手
 - [配置指南](configuration) — AI 提供商、信息源、过滤规则与环境变量替换
 - [信息源采集器](scrapers) — Horizon 如何从 GitHub、Hacker News、RSS、Reddit 采集内容
 - [评分系统](scoring) — 基于 AI 的内容分析与 0-10 评分体系
@@ -32,10 +33,11 @@ title: Home
 
 <div id="lang-en" class="lang-section" markdown="1">
 
-Welcome to [Horizon](https://github.com/thysrael/Horizon), an AI-driven information aggregation system.
+This is an AI-curated daily digest for Japanese study-abroad content creators, powered by [Horizon](https://github.com/thysrael/Horizon).
 
 ## Documentation
 
+- [About Codex](codex-introduction) — The AI coding assistant used to configure and maintain this project
 - [Configuration Guide](configuration) — AI providers, information sources, filtering, and environment variable substitution
 - [Source Scrapers](scrapers) — How Horizon collects content from GitHub, Hacker News, RSS, and Reddit
 - [Scoring System](scoring) — AI-based content analysis and the 0-10 scoring scale
